@@ -1,0 +1,18 @@
+.iploc-panel-label {
+    font-weight: bold;
+}
+
+.iploc-header-flag {
+    font-size: 1.8em;
+    margin-right: 8px;
+}
+
+.iploc-header-name {
+    font-size: 1.15em;
+    font-weight: bold;
+}
+
+.iploc-row-title {
+    color: #9a9996;
+    min-width: 6.5em;
+}

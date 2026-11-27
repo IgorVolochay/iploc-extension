@@ -1,0 +1,9 @@
+{
+  "uuid": "iploc@volochay",
+  "name": "IP Location",
+  "description": "Shows the country of your current public IP address (flag + code) in the top panel. Click to see the IP and the full country name.",
+  "shell-version": ["45", "46", "47", "48"],
+  "settings-schema": "org.gnome.shell.extensions.iploc",
+  "url": "https://github.com/IgorVolochay/iploc-extension",
+  "version": 1
+}

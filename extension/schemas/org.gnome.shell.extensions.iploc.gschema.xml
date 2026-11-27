@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.iploc" path="/org/gnome/shell/extensions/iploc/">
+    <key name="refresh-interval" type="u">
+      <range min="3" max="600"/>
+      <default>5</default>
+      <summary>Refresh interval (seconds)</summary>
+      <description>How often to check the public IP address.</description>
+    </key>
+    <key name="show-details" type="b">
+      <default>true</default>
+      <summary>Show city and provider</summary>
+      <description>When the IP changes, look up city and provider via ipwho.is.</description>
+    </key>
+    <key name="show-code" type="b">
+      <default>true</default>
+      <summary>Show country code next to the flag</summary>
+    </key>
+  </schema>
+</schemalist>
