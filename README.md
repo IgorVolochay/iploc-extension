@@ -6,6 +6,8 @@ GNOME Shell extension that shows the country of your current public IP in the to
 - Click: full country name, IP address (click it to copy), city and provider, time of the last check
 - Refreshes every 5 seconds by default (configurable 3–600 s), plus immediately on network changes and when the menu opens
 
+<img width="403" height="288" alt="123" src="https://github.com/user-attachments/assets/1d27f82e-285d-4242-8978-09a52bd00ae4" />
+
 Tested on Ubuntu 24.04 / GNOME Shell 46.
 
 ## How it works and what it costs
